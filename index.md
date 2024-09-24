@@ -9,13 +9,4 @@ function greet(name) {
 
 console.log(greet("Sofiene"));  // Outputs: Hello, Sofiene!
 ```
-``` css
-body {
-color: red;
-backround-color:grey;
-}
-```
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+
