@@ -54,6 +54,14 @@ var myVar = "Hello, world!";
 ```javascript
 var myVar = "Hello, world!";
 ```
+``` javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+console.log(greet("Sofiene"));  // Outputs: Hello, Sofiene!
+```
+
 
 ### :keyboard: Activity: Adding a code example
 
