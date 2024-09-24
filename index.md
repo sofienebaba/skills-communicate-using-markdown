@@ -10,4 +10,3 @@ function greet(name) {
 console.log(greet("Sofiene"));  // Outputs: Hello, Sofiene!
 ```
 
-```````````````````````````
