@@ -5,3 +5,9 @@
 ``` html
 <p>Cats are the best pets you can get to help you with your stress</p>
 ```
+``` css
+body {
+color: red;
+backround-color:grey;
+}
+```
